@@ -12547,9 +12547,9 @@
 														"$ref": "AAAAAAGAwOetAgDT22c="
 													},
 													"font": "Arial;13;0",
-													"left": 38.55908203125,
+													"left": 40.72998046875,
 													"top": 21,
-													"width": 142.90185546875,
+													"width": 155.6669921875,
 													"height": 13,
 													"text": "sua thong tin tai khoan linh"
 												},
@@ -12562,7 +12562,7 @@
 													"font": "Arial;13;1",
 													"left": 21,
 													"top": 21,
-													"width": 12.55908203125,
+													"width": 14.72998046875,
 													"height": 13,
 													"text": "sd"
 												}
@@ -12570,8 +12570,8 @@
 											"font": "Arial;13;0",
 											"left": 16,
 											"top": 16,
-											"width": 825,
-											"height": 385,
+											"width": 961,
+											"height": 521,
 											"nameLabel": {
 												"$ref": "AAAAAAGAwOetAgDUzUk="
 											},
@@ -15567,9 +15567,9 @@
 														"$ref": "AAAAAAGAwO6v+VxY6sQ="
 													},
 													"font": "Arial;13;0",
-													"left": 22.55908203125,
+													"left": 24.72998046875,
 													"top": 13,
-													"width": 100.28369140625,
+													"width": 110.12255859375,
 													"height": 13,
 													"text": "Thong ke sach linh"
 												},
@@ -15582,7 +15582,7 @@
 													"font": "Arial;13;1",
 													"left": 5,
 													"top": 13,
-													"width": 12.55908203125,
+													"width": 14.72998046875,
 													"height": 13,
 													"text": "sd"
 												}
