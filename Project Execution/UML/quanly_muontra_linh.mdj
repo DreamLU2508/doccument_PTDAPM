@@ -21034,7 +21034,7 @@
 													"height": 13,
 													"alpha": -4.588034601222591,
 													"distance": 16.1245154965971,
-													"text": "6 : Thống kê thành công"
+													"text": "6 : Danh sách thống kê"
 												},
 												{
 													"_type": "NodeLabelView",
@@ -21186,7 +21186,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGAwO6v+VxWEXY="
 									},
-									"name": "Thống kê thành công",
+									"name": "Danh sách thống kê",
 									"source": {
 										"$ref": "AAAAAAGAwO9Gf11oIDw="
 									},
