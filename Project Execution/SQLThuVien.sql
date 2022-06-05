@@ -1,0 +1,26 @@
+CREATE DATABASE thuvien;
+
+CREATE TABLE thuthu(
+	ID INT PRIMARY KEY,
+	Ten VARCHAR(255),
+	TaiKhoan VARCHAR(255),
+	MatKhau VARCHAR(255),
+	Email VARCHAR(255),
+	SDT VARCHAR(255),
+	DiaChi VARCHAR(255),
+	Anh VARCHAR(255)
+);
+
+CREATE TABLE sach(
+	ID INT PRIMARY KEY,
+	TenSach VARCHAR(255),
+	AnhSach VARCHAR(255),
+	TacGia VARCHAR(255),
+	NhaXuatBan VARCHAR(255),
+	NgayMua DATE,
+	SoLuong INT,
+	SoLuongCoSan INT,
+	IDThuThu INT,
+	LinkSach VARCHAR(255)
+	FOREIGN KEY (IDThuThu) REFERENCES thuthu(ID)
+);
